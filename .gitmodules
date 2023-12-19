@@ -1,0 +1,3 @@
+[submodule "uimodule"]
+	path = uimodule
+	url = https://github.com/subrataindia/uimodule.git
